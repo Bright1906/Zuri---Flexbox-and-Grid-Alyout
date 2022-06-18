@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: white;
+}
+main{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+.first-content{
+    background-color: orange;
+    padding: 2em;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+
+
+}
+.first-content h2{
+    color: white;
+font-size: 25px;
+padding-bottom: 10px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: 400;
+}
+.first-content p{
+    color: white;
+font-size: 15px;
+padding-bottom: 10px;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 700;
+height: 300px;
+width: 200px;
+}
+.second-content{
+    background-color: darkcyan;
+    padding: 2em;
+
+
+}
+.second-content h2{
+    color: white;
+font-size: 25px;
+padding-bottom: 10px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: 400;
+}
+.second-content p{
+    color: white;
+font-size: 15px;
+padding-bottom: 10px;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 700;
+height: 300px;
+width: 200px;
+}
+
+.third-content{
+    background-color: rgb(107, 131, 131);
+    padding: 2em;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+
+
+
+}
+.third-content h2{
+    color: white;
+font-size: 25px;
+padding-bottom: 10px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: 400;
+}
+.third-content p{
+    color: white;
+font-size: 15px;
+padding-bottom: 10px;
+font-family: 'Times New Roman', Times, serif;
+font-weight: 700;
+height: 300px;
+width: 200px;
+
+}
+
